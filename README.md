@@ -6,4 +6,4 @@ Example project for a scaling drawer using [react navigation 6](https://github.c
 $ expo install && npm run [ios:android]
 ```
 
-![Scaling drawer example animation](scaling_drawer.gif)
+<img src="scaling_drawer.gif" alt="Scaling drawer example animation" width="200"/>
